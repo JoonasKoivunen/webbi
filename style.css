@@ -16,8 +16,7 @@ a{
 }
 img{
     border:2px solid;
-    background-color:aliceblue;
-    padding:5px;
+    background-color:rgb(252, 255, 240);
 }
 .date{
     font-size:12px;
